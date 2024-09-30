@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Stationers' Paratexts Online
+description: A database of paratexts designed and authored by early English printers, publishers, and booksellers 
