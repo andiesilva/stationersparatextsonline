@@ -3,6 +3,7 @@ SPO is a work-in-progress database of non-authorial paratexts written or designe
 
 ## Curent files
 
+- PPO_February 2025.csv: adds minor clean-up and proofing, and expands the names of all print agents previously listed by initials, only.
 - PPO Clean_Sept 2024.csv: includes entries for all the prefaces and dedications listed in Franklin B. Williams's _Index of Dedications and Commendatory Verses in English Books before 1641_ (1962).
 
 ## Files TBA
