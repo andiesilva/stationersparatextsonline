@@ -3,13 +3,14 @@ SPO is a work-in-progress database of non-authorial paratexts written or designe
 
 ## Curent files
 
+- PPO_Williams Records.csv: final Williams dataset (a/o May 2025).
 - PPO_February 2025.csv: adds minor clean-up and proofing, and expands the names of all print agents previously listed by initials, only.
 - PPO Clean_Sept 2024.csv: includes entries for all the prefaces and dedications listed in Franklin B. Williams's _Index of Dedications and Commendatory Verses in English Books before 1641_ (1962).
 
 ## Files TBA
 
 - Index of all stationers listed in the database with their corresponding identifying bios according to the British Book Trade Index (BBTI), the Oxford Dictionary of National Biography, or Wikipedia.
-- Dedicated list of paratexts by women stationers, including publications after 1641.
+- Dedicated list of paratexts by women stationers, including publications after 1641 (currently 100 entries published to site!).
 
 ## Copyright
 
